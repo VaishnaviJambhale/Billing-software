@@ -1,0 +1,20 @@
+	       Welcome to Shopntag
+
+ Bill Number : 2086
+ Customer Name: ABC
+ Phone Number : 123412345
+----------------------------------------------
+ Products		 QTY		Price
+----------------------------------------------
+ Wheat		 3		Rs. 240
+ Tea		 2		Rs. 320
+ Ointment		 1		Rs. 120
+ Keraboost		 2		Rs. 290
+ Conditioner		 3		Rs. 1140
+ Spray		 3		Rs. 780
+----------------------------------------------
+ Grocery Tax   				Rs. 56.0
+ Medicine Tax   				Rs. 32.8
+ Cosmetic Tax   				Rs. 249.6
+----------------------------------------------
+		Total Bill :    Rs. 3228.4

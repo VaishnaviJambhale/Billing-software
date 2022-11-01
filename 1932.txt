@@ -1,0 +1,20 @@
+	       Welcome to Shopntag
+
+ Bill Number : 1932
+ Customer Name: Aarti Bhatuse
+ Phone Number : 7897897890
+----------------------------------------------
+ Products		 QTY		Price
+----------------------------------------------
+ Sugar		 5		Rs. 600
+ Tea		 2		Rs. 320
+ Ointment		 3		Rs. 360
+ Shampoo		 4		Rs. 1836
+ Lotion		 1		Rs. 250
+----------------------------------------------
+ Grocery Tax   				Rs. 92.0
+ Medicine Tax   				Rs. 28.8
+ Cosmetic Tax   				Rs. 271.18
+----------------------------------------------
+		Total Bill :    Rs. 3757.98
+        
